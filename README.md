@@ -1,1 +1,1 @@
-# printTriangle.c
+# practical.c
